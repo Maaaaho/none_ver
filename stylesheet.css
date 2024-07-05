@@ -1,0 +1,27 @@
+.header {
+  width:1080px;
+  height:65px;
+  position:fixed;
+  padding:0 5px;
+  z-index:10;
+  top:-20px;
+  background-color:white;
+}
+.footer {
+  position: fixed; /* フッターを固定する */
+bottom: 80px; /* 上部から配置の基準位置を決める */
+left: 0; /* 左から配置の基準位置を決める */
+width: 1080px; /* フッターの横幅を指定する */
+height: 35px; /* フッターの高さを指定する */
+padding:10px;
+}
+
+.header img {
+  width:1080px;
+}
+.main img {
+  width:1080px;
+}
+.footer img {
+  width:1080px;
+}
